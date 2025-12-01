@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Lora_Node")(type "KiCad")(uri "${KIPRJMOD}/Lora_Node.kicad_sym")(options "")(descr ""))
+  (lib (name "AirMQ-Radio1")(type "KiCad")(uri "D:/Documents/OneDrive/Projects/KiCAD/libs/sch/lib/AirMQ-1.kicad_sym")(options "")(descr ""))
+  (lib (name "LoraTemp")(type "KiCad")(uri "D:/Documents/OneDrive/Projects/KiCAD/libs/sch/LoraTemp.kicad_sym")(options "")(descr ""))
+)
